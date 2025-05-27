@@ -1,1 +1,3 @@
 # COVID-19-Prediction
+
+The objective of this project is to develop a robust time-series prediction model for forecasting future COVID-19 cases using historical data. By leveraging regression techniques, the model will analyze temporal trends and uncover underlying growth patterns in the spread of the virus. This approach aims to enhance the understanding of infection trajectories and potential surges. The model’s predictions, supported by insightful visualizations, will serve as a valuable tool for public health authorities in planning and resource allocation. Ultimately, the project seeks to contribute to proactive decision-making and effective response strategies amid the ongoing and evolving challenges of the COVID-19 pandemic.
